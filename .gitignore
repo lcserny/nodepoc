@@ -1,5 +1,6 @@
 # Project exclude paths
 /dist/
+/.idea/
+*.iml
 /node_modules/
-/src/greet.js
-/src/index.js
+/src/*.js
