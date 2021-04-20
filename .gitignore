@@ -1,0 +1,5 @@
+# Project exclude paths
+/dist/
+/node_modules/
+/src/greet.js
+/src/index.js
